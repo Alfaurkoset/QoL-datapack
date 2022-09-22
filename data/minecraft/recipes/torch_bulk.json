@@ -1,0 +1,26 @@
+{
+    "type": "crafting_shaped",
+    "group": "torch",
+    "pattern": [
+        "# #",
+        "#%#",
+        " % "
+    ],
+    "key": {
+        "#": [
+            {
+                "item": "minecraft:coal"
+            },
+            {
+                "item": "minecraft:charcoal"
+            }
+        ],
+        "%": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:torch",
+        "count": 16
+    }
+}
